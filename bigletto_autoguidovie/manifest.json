@@ -1,0 +1,11 @@
+
+{
+  "name": "Biglietto Autoguidovie",
+  "short_name": "Biglietto",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#206b43",
+  "theme_color": "#206b43"
+}
